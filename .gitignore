@@ -158,3 +158,16 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Assignment 1 generated
+assignment1_colab/assignment1/cs231n/datasets/cifar-10-batches-py
+assignment1_colab/assignment1/a1.zip
+assignment1_colab/assignment1/assignment.pdf
+
+# Assignment 2 generated
+assignment2_colab/assignment2/cs231n/build
+assignment2_colab/assignment2/cs231n/im2col_cython.cpython*
+assignment2_colab/assignment2/cs231n/datasets/cifar-10-batches-py
+assignment2_colab/assignment2/a2.zip
+assignment2_colab/assignment2/assignment.pdf
+assignment2_colab/assignment2/cs231n/datasets/cifar-10-python.tar.gz

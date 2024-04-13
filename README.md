@@ -69,6 +69,7 @@ I've gathered all the requirements for all 3 assignments into one file [requirem
 ## Difference in assignments code (.ipynb)
 In basic, assignments work in colab. But I worked in local environment.  
 
+### Example (assignemt1)
 **Original code (colab)**
 ```python
 # This mounts your Google Drive to the Colab VM.
